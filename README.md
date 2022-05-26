@@ -26,5 +26,5 @@
 * 关闭win10安全中心：[关闭win10安全中心](https://blog.51cto.com/u_15308480/3142939)
 * MacOS下禁止开机自动挂载分区：[MacOS下禁止开机自动挂载分区](https://blog.csdn.net/qq_38202733/article/details/109631753)
 * U盘引导MAC：[如何制作macOS Big Sur 系统启动U盘](https://baijiahao.baidu.com/s?id=1683230032003672683&wfr=spider&for=pc)
-* 攒机[个人黑苹果的搭配与选装](https://zhuanlan.zhihu.com/p/463382966)
-* 安装过程卡住[安装Big Sur卡在12分钟后无限重启](https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1881237&page=1#pid50868261)
+* 攒机：[个人黑苹果的搭配与选装](https://zhuanlan.zhihu.com/p/463382966)
+* 安装过程卡住：[安装Big Sur卡在12分钟后无限重启](https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1881237&page=1#pid50868261)
